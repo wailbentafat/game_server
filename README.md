@@ -35,11 +35,8 @@ multiplayer-fps-server/
 ├── go.mod              # Go module file
 └── README.md           # Project documentation
 ```
-
-## Future Improvements
-- Implement advanced game mechanics
-- Add user authentication and player stats
-- Develop a client-side interface
+ ##testing:
+![image](https://github.com/user-attachments/assets/880b1f16-2233-47e0-93ad-30e0287cbbfe)
 
 ## License
 This project is licensed under the MIT License.
