@@ -58,7 +58,6 @@ func sra_move(player *USER, move Move) ([]byte) {
 	return message
 }
 
-
 func broadcastMessage(message []byte) {
 	mu.Lock()
 	defer mu.Unlock()
